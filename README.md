@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
