@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
