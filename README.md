@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 ## Monotonic Stack
@@ -80,5 +82,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/siri2007-vennela/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
